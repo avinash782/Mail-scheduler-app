@@ -1,6 +1,6 @@
 # 📧 Mail Scheduler
 
-A simple full-stack project that allows collecting candidate information via a form, validating the data, storing it in Firestore, and enabling interview panelists to **accept** or **reject** candidates. Based on the action, an email is automatically sent to the candidate.
+A simple full-stack project that allows collecting candidate information via a form, validating the data, storing it in Firestore, and enabling **accept** or **reject** candidates. Based on the action, an email is automatically sent to the candidate.
 
 ---
 
