@@ -1,0 +1,9 @@
+#ignore env files
+**/.env
+
+#ignore node modules
+interview-app/node_modules/
+Email-Backend/node_modules/
+
+#ignore firebase auth folder
+interview-app/src/Firebase/
